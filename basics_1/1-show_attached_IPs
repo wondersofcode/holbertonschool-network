@@ -1,0 +1,3 @@
+#!/usr/bin/env bash 
+#thi si scomemt
+ifconfig | grep -oP '(?<=inet\s)\d+(\.\d+){3}'

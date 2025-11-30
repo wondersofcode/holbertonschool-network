@@ -1,0 +1,3 @@
+#!/usr/bin/env bash 
+#thi si script
+nc -p 89
