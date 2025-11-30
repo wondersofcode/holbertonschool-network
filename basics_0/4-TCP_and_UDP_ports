@@ -1,0 +1,3 @@
+#!/usr/bin/env bash
+# network connections
+netstat -lp
